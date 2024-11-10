@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Patrickayo
-- 👀 I’m interested in learning how to code!
+- 👋 Hi, I’m @Patrick
+- 👀 I’m interested in Web3 Branding and Product Design!
 - 🌱 I’m currently learning html, css & javascript.
 - 💞️ I’m looking to collaborate on introductory and exercise projects
 - 📫 How to reach me georgepatricklakunle@gmail.com
